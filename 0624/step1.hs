@@ -1,4 +1,3 @@
-
 {- 1 -}
 {- notation: div is only integer -}
 18.6 / 31 - 2.604 / 3.1 - 0.8556 / 0.31
